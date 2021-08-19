@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "gpio.h": "c",
+        "routing_table.h": "c",
+        "app.h": "c"
+    }
+}
